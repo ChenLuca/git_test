@@ -11,9 +11,9 @@ This is just a **practice** of git.
   * - [ ] PR
   * - [ ] README.md
 ---
-'''
+```
 code here!
-'''
+```
 ---
 ## link
 [為你自己學 Git](https://gitbook.tw/)
