@@ -4,7 +4,7 @@
 * - [x] Merge
 * - [x] Conflict
 * - [x] Branch
-* - [] Fork
+* - [ ] Fork
 * Github
-  * - [] PR
-  * - [] README.md
+  * - [ ] PR
+  * - [ ] README.md
