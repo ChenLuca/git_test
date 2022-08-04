@@ -6,10 +6,10 @@ This is just a **practice** of git.
 * - [x] Merge
 * - [x] Conflict
 * - [x] Branch
-* - [ ] Fork
+* - [X] Fork
 * Github
-  * - [ ] PR
-  * - [ ] README.md
+  * - [x] PR
+  * - [X] README.md
 ---
 ```
 code here!
