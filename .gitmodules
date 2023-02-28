@@ -1,3 +1,6 @@
 [submodule "reference/git_submodule_test"]
 	path = reference/git_submodule_test
 	url = https://github.com/ChenLuca/git_submodule_test
+[submodule "sub-repo"]
+	path = sub-repo
+	url = https://github.com/ChenLuca/git_submodule_test
